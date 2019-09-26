@@ -7,3 +7,14 @@
 /Users/danielcanalli/Downloads/ByteBank/bin/Debug/netcoreapp1.1/ByteBank.pdb
 /Users/danielcanalli/Downloads/ByteBank/obj/Debug/netcoreapp1.1/ByteBank.dll
 /Users/danielcanalli/Downloads/ByteBank/obj/Debug/netcoreapp1.1/ByteBank.pdb
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\bin\Debug\netcoreapp1.1\ByteBank.deps.json
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\bin\Debug\netcoreapp1.1\ByteBank.runtimeconfig.json
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\bin\Debug\netcoreapp1.1\ByteBank.runtimeconfig.dev.json
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\bin\Debug\netcoreapp1.1\ByteBank.dll
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\bin\Debug\netcoreapp1.1\ByteBank.pdb
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\obj\Debug\netcoreapp1.1\ByteBank.csprojAssemblyReference.cache
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\obj\Debug\netcoreapp1.1\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\obj\Debug\netcoreapp1.1\ByteBank.AssemblyInfoInputs.cache
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\obj\Debug\netcoreapp1.1\ByteBank.AssemblyInfo.cs
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\obj\Debug\netcoreapp1.1\ByteBank.dll
+C:\Users\daniel.canalli\Documents\GitHub\Alura\Alura\obj\Debug\netcoreapp1.1\ByteBank.pdb
