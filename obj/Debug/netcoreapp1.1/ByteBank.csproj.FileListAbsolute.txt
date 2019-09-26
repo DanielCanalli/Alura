@@ -1,0 +1,9 @@
+/Users/danielcanalli/Downloads/ByteBank/bin/Debug/netcoreapp1.1/ByteBank.deps.json
+/Users/danielcanalli/Downloads/ByteBank/bin/Debug/netcoreapp1.1/ByteBank.runtimeconfig.json
+/Users/danielcanalli/Downloads/ByteBank/bin/Debug/netcoreapp1.1/ByteBank.runtimeconfig.dev.json
+/Users/danielcanalli/Downloads/ByteBank/obj/Debug/netcoreapp1.1/ByteBank.csproj.CoreCompileInputs.cache
+/Users/danielcanalli/Downloads/ByteBank/obj/Debug/netcoreapp1.1/ByteBank.AssemblyInfo.cs
+/Users/danielcanalli/Downloads/ByteBank/bin/Debug/netcoreapp1.1/ByteBank.dll
+/Users/danielcanalli/Downloads/ByteBank/bin/Debug/netcoreapp1.1/ByteBank.pdb
+/Users/danielcanalli/Downloads/ByteBank/obj/Debug/netcoreapp1.1/ByteBank.dll
+/Users/danielcanalli/Downloads/ByteBank/obj/Debug/netcoreapp1.1/ByteBank.pdb
