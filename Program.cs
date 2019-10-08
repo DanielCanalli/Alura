@@ -12,10 +12,10 @@ namespace ByteBank
             Diretor Carlos = new Diretor(23423423,234234);
             SistemaInterno Login = new SistemaInterno();
             Carlos.Senha="fsdmfosd";
-            object Anderson = new CCorrente(5454654,456468);
+            Cliente Anderson = new Cliente("Anderson MAfmld","4564654456");
             string ContaString = Anderson.ToString();
             System.Console.WriteLine(ContaString);
-            
+            Cliente Wandernelson = new Cliente("Anderson MAfmld","4564654456");    
         }
     }
 }
