@@ -4,7 +4,7 @@ using ByteBank.Excecoes;
 
 namespace ByteBank.ContaCorrente
 {
-    public class ContaCorrente
+    public class CCorrente
     {
         public Cliente Titular { get; set; }
 
@@ -34,7 +34,11 @@ namespace ByteBank.ContaCorrente
         }
 
 
-        public ContaCorrente(int agencia, int conta)
+        public override string ToString()
+        {
+            return "Agencia " + Agencia + " Conta " + Conta;
+        }
+        public CCorrente(int agencia, int conta)
         {
             if(agencia <= 0)
         {
@@ -72,7 +76,7 @@ namespace ByteBank.ContaCorrente
         }
 
 
-        public bool Transferir(double valor, ContaCorrente contaDestino)
+        public bool Transferir(double valor, CCorrente contaDestino)
         {
             if (_saldo < valor)
             {
