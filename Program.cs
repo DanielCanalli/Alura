@@ -1,4 +1,5 @@
 ﻿using System;
+using ByteBank.ContaCorrente;
 using ByteBank.Funcionarios;
 using ByteBank.Sistema;
 
@@ -11,8 +12,10 @@ namespace ByteBank
             Diretor Carlos = new Diretor(23423423,234234);
             SistemaInterno Login = new SistemaInterno();
             Carlos.Senha="fsdmfosd";
-            Login.Logar(Carlos,"fisdmfosd");
-            Console.WriteLine(Carlos.Senha);
+            object Anderson = new CCorrente(5454654,456468);
+            string ContaString = Anderson.ToString();
+            System.Console.WriteLine(ContaString);
+            
         }
     }
 }
