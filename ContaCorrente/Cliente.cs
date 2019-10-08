@@ -10,13 +10,11 @@ namespace ByteBank.ContaCorrente
     {
         private string _nome;
         private string _cpf;
-        private int v1;
-        private int v2;
 
         public Cliente(string Nome, string CPF)
         {
-            Nome = _nome;
-            CPF = _cpf;
+            _nome = Nome;
+            _cpf = CPF;
         }
 
         public string Nome { get; set; }
@@ -34,6 +32,14 @@ namespace ByteBank.ContaCorrente
         }
         public string Profissao { get; set; }
 
-        
+        public override bool Equals(object obj)
+        {
+
+            Cliente OutroCliente =(Cliente)obj;
+            
+            return
+                _nome == OutroCliente._nome &&
+                _cpf ==  OutroCliente._cpf;
+        }
     }
 }

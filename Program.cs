@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Reflection;
+using System;
 using ByteBank.ContaCorrente;
 using ByteBank.Funcionarios;
 using ByteBank.Sistema;
@@ -16,6 +17,8 @@ namespace ByteBank
             string ContaString = Anderson.ToString();
             System.Console.WriteLine(ContaString);
             Cliente Wandernelson = new Cliente("Anderson MAfmld","4564654456");    
+            Console.WriteLine(Anderson.Equals(Wandernelson));
+
         }
     }
 }
